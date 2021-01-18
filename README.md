@@ -3,7 +3,10 @@ A Self-Driving Car Robot, powered by a Raspberry pi and camera which can detect 
 The RC car will be able to navigate itself through the designed track using computer vision, deep learning techniques and ultrasonic sensor. The system is required to work in day and night situations.
 
 Project Aims:
+
+
 The aims of this project are:
+
 •	Design and implement a self-driving robot car.
 
 •	The robot cars should use ultrasonic sensors to avoid obstacles and also measure distances.
@@ -16,12 +19,20 @@ The aims of this project are:
 
 
 Project Objectives:
+
+
 The objectives carried out in order to meet the aims are:
+
 •	Perform research on self-driving cars/autonomous robots.
+
 •	Research software solutions/techniques for the robot.
+
 •	Perform a system design for the robot.
+
 •	Research hardware to be used. 
+
 •	Integrate the software and hardware of the system.
+
 •	Testing phase of system to analyse system performance, collect data and make improvements where needed.
 
 ![car](https://user-images.githubusercontent.com/46611428/104960262-c992b400-59cb-11eb-952e-2b34319500c9.png)
