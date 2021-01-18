@@ -5,9 +5,13 @@ The RC car will be able to navigate itself through the designed track using comp
 Project Aims:
 The aims of this project are:
 •	Design and implement a self-driving robot car.
+
 •	The robot cars should use ultrasonic sensors to avoid obstacles and also measure distances.
+
 •	DC motors of the robot to be controlled using L298N motor drivers 
+
 •	The robot car should use a camera for image processing (to detect lanes and road signs) using computer vision and deep learning techniques.
+
 •	The user should be able to manually control the robot car using a keyboard and joystick.
 
 
