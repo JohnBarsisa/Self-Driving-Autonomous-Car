@@ -1,4 +1,23 @@
-# Self-Driving-Autonomous-Car
+# Self-Driving Autonomous Car — Robotics Experiment
+
+**Status:** educational robotics and computer-vision project. This is not an autonomous road vehicle or a certified safety system.
+
+The repository contains Python experiments for camera input, lane warping and detection, curve estimation, keyboard/joystick driving and motor control. The intended target is a small Raspberry Pi-based robot on a controlled track.
+
+## What is in the repository
+
+`LaneDetectionModule.py`, `WarpingLane.py`, `FindingCurve.py`, `OptimizingCurve.py`, `MotorModule.py`, `KeyboardModule.py`, `JoystickModule.py` and related utilities.
+
+**Setup note:** one runner currently imports `LaneModule`, which is not present in the root listing; the full robotics setup also requires compatible camera, drivers, GPIO/motor hardware and Python dependencies. Do not assume the code is plug-and-play from a fresh clone. Deep learning, road-sign recognition and obstacle detection are **project objectives**, not proven production capabilities from this repository alone.
+
+## Development themes
+
+OpenCV-style image processing, motor-control integration, control-loop design and test-track experimentation.
+
+---
+
+## Original project brief and visuals
+
 A Self-Driving Car Robot, powered by a Raspberry pi and camera which can detect and follow driving lanes, detect road signs, and avoid obstacles. 
 The RC car will be able to navigate itself through the designed track using computer vision, deep learning techniques and ultrasonic sensor. The system is required to work in day and night situations.
 
